@@ -4,7 +4,7 @@
 
 > According to Coding
 
-## 🖼️ 팀 포스터
+## 🖼️ 팀 포스터 
 
 <div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
 
