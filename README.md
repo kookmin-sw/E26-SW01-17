@@ -41,6 +41,7 @@
 <img src="./E26_SW_01_17_01.jpeg" height="300px"/>
 
 [3주차 활동 내역](./assets/E26_SW_01_17_02.md)
+
 [5주차 활동 내역](./assets/E26_SW_01_17_05.md)
 ***
 
