@@ -6,7 +6,7 @@
 
 ## 🖼️ 팀 포스터 
 
-<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="600"/></div>
+<div class="poster"><img src="poster.jpg" alt="팀 포스터" width="450"/></div>
 
 <p align="center" class="poster-caption"></p>
 
@@ -36,11 +36,18 @@
 
 <!-- 활동 사진 추가 예시 -->
 - 첫날 팀 단체사진<br>
-<img src="./E26_SW_01_17_01.jpeg" height="300px"/>
+<img src="./E26_SW_01_17_01.jpeg" height="200px"/>
 
 [3주차 활동 내역](./assets/E26_SW_01_17_02.md)
 
 [5주차 활동 내역](./assets/E26_SW_01_17_05.md)
+
+### 최종 포스터 — CALLMATE 2040
+
+**전화 한 통으로 일을 맡기는 나만의 AI 비서**
+
+<img src="./assets/유레카프로젝트_포스터.png" width="550">
+
 ***
 
 ## 4️⃣ 인상 깊은 활동
